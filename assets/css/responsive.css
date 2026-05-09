@@ -1,0 +1,71 @@
+.topbar {
+    background: #0ea5e9;
+    color: black;
+    text-align: center;
+    padding: 6px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+/* NAV ACTIVE STATE */
+.nav-links a.active {
+    color: #38bdf8;
+    border-bottom: 2px solid #38bdf8;
+    padding-bottom: 3px;
+}
+
+/* TABLET */
+@media (max-width: 1024px) {
+
+    header {
+        padding: 20px;
+    }
+
+    .hero h2 {
+        font-size: 32px;
+    }
+
+    .section {
+        padding: 40px 20px;
+    }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+    header {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .logo-container {
+        align-items: center;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .hero {
+        padding: 60px 15px;
+    }
+
+    .hero h2 {
+        font-size: 26px;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .section {
+        padding: 30px 15px;
+    }
+
+    button {
+        width: 100%;
+    }
+}

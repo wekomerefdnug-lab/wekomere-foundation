@@ -11,4 +11,29 @@
         <priority>1.0</priority>
         <changefreq>daily</changefreq>
     </url>
-</urlset>
+  
+    <url>
+       <loc>https://wekomere-foundation.web.app/about</loc>
+       <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+    </url>
+ 
+    <url>
+       <loc>https://wekomere-foundation.web.app/mission</loc>
+       <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+    </url>
+  
+    <url>
+       <loc>https://wekomere-foundation.web.app/contact</loc>
+       <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+    </url>
+  
+    <url>
+       <loc>https://wekomere-foundation.web.app/donate</loc>
+       <priority>0.9</priority>
+        <changefreq>daily</changefreq>
+    </url>
+  </urlset>
+

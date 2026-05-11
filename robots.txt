@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://wekomere-foundation.web.app/sitemap.xml

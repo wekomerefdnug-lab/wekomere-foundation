@@ -7,5 +7,11 @@
   <url><loc>https://wekomere-foundation.web.app/donate</loc><priority>0.9</priority></url>
   <url><loc>https://wekomere-foundation.web.app/partnership</loc><priority>0.7</priority></url>
   <url><loc>https://wekomere-foundation.web.app/security</loc><priority>0.7</priority></url>
+  <url><loc>https://wekomere-foundation.web.app/projects</loc><priority>0.7</priority></url>
+  <url><loc>https://wekomere-foundation.web.app/apps/nerixa</loc><priority>0.7</priority></url>
+  <url><loc>https://wekomere-foundation.web.app/apps/health</loc><priority>0.7</priority></url>
+  <url><loc>https://wekomere-foundation.web.app/apps/usports</loc><priority>0.7</priority></url>
+  <url><loc>https://wekomere-foundation.web.app/apps/agriculture</loc><priority>0.7</priority></url>
+  <url><loc>https://wekomere-foundation.web.app/apps/education</loc><priority>0.7</priority></url>
  </urlset>
 
